@@ -11,6 +11,7 @@
 ## Personal goals
 - Read 12 books
 - Become an expert elixir programmer.
+- Document every aspect of life publically and share the experience.
 
 ## Professional goals.
 - Achive 1K followers in LinkedIn
